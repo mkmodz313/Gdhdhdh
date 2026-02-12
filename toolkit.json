@@ -4,11 +4,11 @@
     "#/saasLottery/WinGo",
     "#/saasLottery/TrxWinGo"
   ],
-  "deposit_url": "https://www.92pak.world/#/wallet",
-  "login_url": "https://www.92pak.world/#/login",
-  "register_url": "https://www.92pak.world/#/register?invitationCode=25417129914",
+  "deposit_url": "https://www.92pak2.world/#/wallet",
+  "login_url": "https://www.92pak2.world/#/login",
+  "register_url": "https://www.92pak2.com/#/register?invitationCode=42566562750",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
-  "home_url": "https://www.92pak.world/#/",
-  "minimum_deposit": 300,
-  "minimum_deposit_number": 500
+  "home_url": "https://www.92pak2.world/#/",
+  "minimum_deposit": 1,
+  "minimum_deposit_number": 4
 }
